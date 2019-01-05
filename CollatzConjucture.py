@@ -1,3 +1,8 @@
+# collatz conjucture is unproved till date
+# it says when a number is even divide it by 2
+# if the number is odd multiply it by 3 and add 1
+# at last all number reaches to 1 no matter how big the number is
+
 import sys
 number=int(input("Enter any number to check collatz conjucture :"))
 
