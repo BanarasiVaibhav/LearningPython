@@ -1,0 +1,9 @@
+name='        hello dear      '
+print(name.rstrip())
+print(name.strip())
+print(name.lstrip())
+
+
+
+greet='*****----+++++*-+*/-+*/-/Have a good day/*+--/*/-+*-/*-/-+'
+print(greet.strip('/*-+'))
