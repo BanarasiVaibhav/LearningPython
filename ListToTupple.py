@@ -1,4 +1,4 @@
-# Converting list to toople
+# Converting list to tupple
 
 lst=[1,2,3,4,5,6,7,8]
 topple=tuple(lst)
